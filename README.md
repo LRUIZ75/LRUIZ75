@@ -3,7 +3,7 @@
 Programador senior de nacionalidad Nicaragüense.
 Gamer.
 
-Me apasiona la programación y los videojuegos de computadora como PUBG ![PUBG](https://img.shields.io/badge/AngularJS-E23237?style=for-the-badge&logo=pubg&logoColor=white).
+Me apasiona la programación y los videojuegos de computadora como PUBG ![PUBG](https://img.shields.io/badge/pubg-E23237?style=for-the-badge&logo=pubg&logoColor=white).
 
 En mis repositorios, encontrarás código de ejemplo más que todo orientado a aplicaciones WEB y API's basadas en JavaScript, Módulos de ODOO que he desarrollado y una que otra plantilla de generador de código basada en CodeSmith.
 
