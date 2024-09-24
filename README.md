@@ -12,9 +12,7 @@ En mis repositorios encontrarás código más que todo orientado a aplicaciones 
 - 💬 Preguntame lo que gustes, trataré de responder si está en mis capacidades.
 - 📫 Cómo puedes contactarme: [Mis contactos y redes sociales](https://linktr.ee/MRDEVEX)
 
-## Algunas TECNOLOGÍAS que uso y/o DOMINO ##
+## 🚧🚧🚧🚧🚧 EN CONSTRUCTIÓN 🚧🚧🚧🚧🚧: ##
 
- ![MariaDDB](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white) ![Maria](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white)
- 
-## Mi estadísticas de GITHUB van así ##
-[![LRUIZ's GitHub stats](https://github-readme-stats.vercel.app/api?username=LRUIZ75)](https://github.com/LRUIZ75/github-readme-stats)
+ ![MariaDDB](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+
