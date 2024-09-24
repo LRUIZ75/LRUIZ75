@@ -13,7 +13,8 @@ En mis repositorios encontrarás código más que todo orientado a aplicaciones 
 - 📫 Cómo puedes contactarme: [Mis contactos y redes sociales](https://linktr.ee/MRDEVEX)
 
 ## Algunas TECNOLOGÍAS que uso y/o DOMINO ##
-	![image]([{BadgeURLHere}](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white)) ![image]([{BadgeURLHere}](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white))
+
+ ![MariaDDB](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white) ![Maria](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white)
  
 ## Mi estadísticas de GITHUB van así ##
 [![LRUIZ's GitHub stats](https://github-readme-stats.vercel.app/api?username=LRUIZ75)](https://github.com/LRUIZ75/github-readme-stats)
