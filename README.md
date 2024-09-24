@@ -3,16 +3,16 @@
 Soy un programador senior de nacioanalidad Nicaragüense.
 Me apasiona la programación y los videojuegos de computadora como PUBG.
 
-En mis repositorios encontrarás código de ejemplo más que todo orientado a aplicaciones WEB y API's basadas en JavaScript, Módulos de ODOO que he desarrollado y una que otra plantilla de generador de código basada en CodeSmith.
+En mis repositorios, encontrarás código de ejemplo más que todo orientado a aplicaciones WEB y API's basadas en JavaScript, Módulos de ODOO que he desarrollado y una que otra plantilla de generador de código basada en CodeSmith.
 
 - 🔭 Actualmente estoy creando un módulo personalizado y localizado en Nicaragua para ODOO 17CE 
-- 🌱 Estoy interesado en aprender a programar videojuegos
-- 👯 Buscando colaboración en diseño y programación de aplicaciones web y API.  
-- 🤔 Buscando ayuda para mejorar el nivel de Inglés.
-- 💬 Preguntame lo que gustes, trataré de responder si está en mis capacidades.
+- 🌱 Me gustaría aprender a programar videojuegos.
+- 👯 Me gustaaa colaborar en diseño y programación de aplicaciones web y API.  
+- 😎 Buscando con quien practicar para mejorar el nivel de Inglés.
+- ❓ Preguntame lo que gustes, quizás tenga una respuesta.
 - 📫 Cómo puedes contactarme: [Mis contactos y redes sociales](https://linktr.ee/MRDEVEX)
 
-## 🚧🚧🚧🚧🚧 TECNOLOGÍAS 🚧🚧🚧🚧🚧: ##
+## 🚧🚧🚧🚧🚧 Esta sección está en construcción.. 🚧🚧🚧🚧🚧: ##
 
  ![MariaDDB](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white) ![NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white) ![](https://img.shields.io/badge/AngularJS-E23237?style=for-the-badge&logo=angularjs&logoColor=white)
 
