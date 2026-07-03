@@ -10,8 +10,8 @@ En mis repositorios, encontrarás código de ejemplo más que todo orientado a a
 Estoy especializándome últimamente en INFOSEC e ISO 27001:2022, dejando a un lado la programación y administración de base de datos, y optando por administración e integración de infraestructura y seguridad de la información, aunque probablemente siga en proyectos personales como:
 
 - 🔭 Módulo personalizado y localizado en Nicaragua para ODOO.
-- 🌱 Meta: programar algún videojuego, probablmente usando RUST.
-- 🌱 Meta: programar alguna app utilitaria web, probablmente usando RUST.
+- 🌱 Meta: programar algún videojuego, probablemente usando RUST.
+- 🌱 Meta: programar alguna app utilitaria web, usando RUST.
 
 
 ### 🚧🚧🚧🚧🚧 Esta sección está en construcción.. 🚧🚧🚧🚧🚧: ###
