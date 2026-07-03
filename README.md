@@ -3,16 +3,16 @@
 Programador senior de nacionalidad Nicaragüense.
 Gamer.
 
-Me apasiona la programación y los videojuegos de computadora como PUBG.
+Me apasiona la programación y los videojuegos de computadora => Especialmente PUBG para PC.
 
 En mis repositorios, encontrarás código de ejemplo más que todo orientado a aplicaciones WEB y API's basadas en JavaScript, Módulos de ODOO que he desarrollado y una que otra plantilla de generador de código basada en CodeSmith.
 
-- 🔭 Actualmente inicio un módulo personalizado y localizado en Nicaragua para ODOO 17CE 
-- 🌱 Me gustaría aprender a programar videojuegos.
-- 👯 Busco asignaciones de trabajo en diseño y programación de aplicaciones web y API.  
-- 😎 Busco con quien practicar para mejorar el nivel de Inglés. Preferiblemente nativo USA.
-- ❓ Pregúntame lo que gustes, quizás tenga una respuesta.
-- 📫 Cómo puedes contactarme: [Mis contactos y redes sociales](https://linktr.ee/MRDEVEX)
+Estoy especializándome últimamente en INFOSEC e ISO 27001:2022, dejando a un lado la programación y administración de base de datos, y optando por administración e integración de infraestructura y seguridad de la información, aunque probablemente siga en proyectos personales como:
+
+- 🔭 Módulo personalizado y localizado en Nicaragua para ODOO.
+- 🌱 Meta: programar algún videojuego, probablmente usando RUST.
+- 🌱 Meta: programar alguna app utilitaria web, probablmente usando RUST.
+
 
 ### 🚧🚧🚧🚧🚧 Esta sección está en construcción.. 🚧🚧🚧🚧🚧: ###
 
